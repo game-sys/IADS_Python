@@ -1,6 +1,6 @@
 # IADS_Python
-IADS 2023 Summer School
+IADS 2023 Summer School <br \>
 
-\\ By:
-\\ Dr Sefki Kolozai
-\\ Mohsin Ali
+By:<br \>
+Dr Sefki Kolozai<br \> 
+Mohsin Ali<br \>
